@@ -321,7 +321,7 @@ $(function () {
 });
 
 const readMoreBtn = document.querySelector('.read-more-button');
-const moreText = document.querySelector('.read-more');
+const text = document.querySelector('.details');
 
 readMoreBtn.addEventListener('click',(e) => {
   moreText.classList.toggle('read-more');
