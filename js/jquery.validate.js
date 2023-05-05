@@ -1605,3 +1605,7 @@ const text = document.querySelector('.details');
 
 readMoreBtn.addEventListener('click',(e) => {
   moreText.classList.toggle('read-more');
+
+.details .read-more{
+  display:none;
+}
