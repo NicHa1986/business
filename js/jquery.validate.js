@@ -1599,3 +1599,9 @@ if ( $.ajaxPrefilter ) {
 }
 return $;
 }));
+
+const readMoreBtn = document.querySelector('.read-more-button');
+const text = document.querySelector('.details');
+
+readMoreBtn.addEventListener('click',(e) => {
+  moreText.classList.toggle('read-more');
