@@ -1301,7 +1301,7 @@ textarea#comment::placeholder {
   display:none;
 }
 
-.button .readmore_button {
+.readmore_button {
     width: 170px;
     float: left;
     margin-top: 30px;
