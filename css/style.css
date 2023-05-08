@@ -1301,6 +1301,14 @@ p.details .read-more {
   display:none;
 }
 
+p.details .read-more2 {
+  display:none;
+}
+
+p.details .read-more3 {
+  display:none;
+}
+
 button.readmore_button {
     width: 170px;
     float: left;
