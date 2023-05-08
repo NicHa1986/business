@@ -327,4 +327,4 @@ readMoreBtn.addEventListener('click',(e) => {
   moreText.classList.toggle('read-more');
   
   // Consider changing the button text to collapse or removing it altogether perhaps?
-})
+});
