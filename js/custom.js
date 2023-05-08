@@ -319,10 +319,7 @@ $(function () {
 
 
 });
-  
-  // Consider changing the button text to collapse or removing it altogether perhaps?
-}
-
+ 
 const readMoreBtn = document.querySelector('.readmore_button');
 const moreText = document.querySelector('.read-more');
 
