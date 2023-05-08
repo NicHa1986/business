@@ -1297,7 +1297,7 @@ textarea#comment::placeholder {
     margin-top: 90px;
 }
 
-span.read-more {
+p.details .read-more {
   display:none;
 }
 
