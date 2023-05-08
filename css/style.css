@@ -1297,11 +1297,11 @@ textarea#comment::placeholder {
     margin-top: 90px;
 }
 
-.span.read-more {
+span.read-more {
   display:none;
 }
 
-.readmore_button {
+button.readmore_button {
     width: 170px;
     float: left;
     margin-top: 30px;
