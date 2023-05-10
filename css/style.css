@@ -1235,7 +1235,7 @@ textarea#comment::placeholder {
 
 .location_text ul {
     margin: 0px;
-    padding: 0px;
+    
     display: inline-block;
 }
 
