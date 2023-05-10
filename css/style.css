@@ -1227,10 +1227,10 @@ textarea#comment::placeholder {
 }
 
 .location_text {
-    width: 100%;
-    
+    width: 50%;
+    text-align: center;
     display: inline-block;
-     margin: 0 auto
+    margin: 0 auto
 }
 
 .location_text ul {
