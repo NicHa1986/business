@@ -1227,7 +1227,7 @@ textarea#comment::placeholder {
 }
 
 .location_text {
-    width: 50%;
+    width: 100%;
     text-align: center;
     display: inline-block;
     margin: 0 auto;
